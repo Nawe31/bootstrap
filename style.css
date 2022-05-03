@@ -1,0 +1,17 @@
+header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgba(243, 239, 239, 0.323);
+}
+footer{
+    background-color: rgb(24, 24, 24);
+    height: 100%;
+    padding: 1px;
+}
+.parrafo {
+    text-align: center;
+    color: beige;
+}
+.color
+{
+    background-color: rgba(195, 188, 188, 0.295);
+}
